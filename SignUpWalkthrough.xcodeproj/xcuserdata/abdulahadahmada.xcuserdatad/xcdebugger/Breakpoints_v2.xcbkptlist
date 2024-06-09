@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "548B0B60-54DF-44FB-B79C-D6A13AD086B8"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8053D0E5-6860-4457-8377-87A945F921BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/View/Controllers/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "HomeViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13EC04EE-909C-41F0-B93D-874B2606FC80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/View/Controllers/HomeViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getStartedTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "13EC04EE-909C-41F0-B93D-874B2606FC80 - 174c510c61ade96d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SignUpWalkthrough.HomeViewController.getStartedTapped(Any) -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/View/Controllers/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "13EC04EE-909C-41F0-B93D-874B2606FC80 - 174c510c61ade88c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SignUpWalkthrough.HomeViewController.getStartedTapped(Any) -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/View/Controllers/HomeViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "100">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9136BD83-AAEF-4F1B-98FD-82A88EF472D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/ViewModel/HomeViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "goToSignUpScreen()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "91E7CF47-D0C4-4D2F-B9BB-0609F241B349"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "navigateToSignUpVC()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "91E7CF47-D0C4-4D2F-B9BB-0609F241B349 - 8d19ee4659e9555f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "91E7CF47-D0C4-4D2F-B9BB-0609F241B349 - e796022a32542c30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "328">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7556BFC6-1523-4744-81C4-C26421097F1E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "navigateToSignUpVC()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7556BFC6-1523-4744-81C4-C26421097F1E - e796022a32542d97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "7556BFC6-1523-4744-81C4-C26421097F1E - 8d19ee4659e954db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8BC70E20-91DA-4451-9D55-1799E29167EB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "navigateToSignUpVC()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8BC70E20-91DA-4451-9D55-1799E29167EB - e796022a32542db4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "8BC70E20-91DA-4451-9D55-1799E29167EB - 8d19ee4659e954db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "8BC70E20-91DA-4451-9D55-1799E29167EB - 8d19ee4659e954db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "52">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70F6E430-25F1-4684-AC58-9640D6430461"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/Managers/Constants/ViewControllerAccessors.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "signUpFormViewController"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61B23092-86A8-4D1E-A43F-5BFEA49E96BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "navigateToSignUpVC()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61B23092-86A8-4D1E-A43F-5BFEA49E96BC - 8d19ee4659e9549d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "61B23092-86A8-4D1E-A43F-5BFEA49E96BC - 8d19ee4659e9549d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SignUpWalkthrough.NavigationCoordinatorStack.navigateToSignUpVC() -&gt; ()"
+                  moduleName = "SignUpWalkthrough"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abdulahadahmada/Desktop/xcodeProj/SignUpWalkthrough/SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "516038F5-74C9-4000-8A46-2A23E18BCA0D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C342067E-6FDC-46B1-8055-155AE56EE965"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60508E08-C09F-4BBB-94EE-792C61C632C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SignUpWalkthrough/Router/NavigationCoordinatorStack.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "start()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
